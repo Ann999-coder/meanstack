@@ -1,0 +1,161 @@
+h1{
+  text-align: center;
+  color: white;
+}
+
+div{
+  border: 1px solid white;
+  width: 150px;
+  height: 200px;
+  
+  
+}
+#b1{
+  margin-left: 270px;
+  background-color:#595e59 ;
+}
+#b2{
+  margin-left: 440px;
+  background-color: #6c806f;
+  margin-top: -200px;
+}
+#b3{
+  margin-left: 610px;
+  background-color: #638f68;
+  margin-top: -200px;
+}
+
+#b4{
+  margin-left: 780px;
+  background-color: #67f077;
+  margin-top: -200px;
+}
+
+#b5{
+  margin-left: 950px;
+  background-color: #e6fce8;
+  margin-top: -200px;
+}
+#b11{
+  margin-left: 100px;
+  background-color:#f0a524 ;
+  margin-top: 20px;
+}
+#b12{
+  margin-left: 270px;
+  background-color:#eb8560 ;
+  margin-top: -200px;
+}
+#b13{
+  margin-left: 440px;
+  background-color: #e6a5c0 ;
+  margin-top: -200px;
+}
+#b14{
+  margin-left: 610px;
+  background-color:#cba5e6 ;
+  margin-top: -200px;
+}
+#b15{
+  margin-left: 780px;
+  background-color: #4d4794 ;
+  margin-top: -200px;
+}
+#b16{
+  margin-left: 950px;
+  background-color: #cba5e6;
+  margin-top: -200px;
+}
+#b17{
+  margin-left: 1120px;
+  background-color:#60696b;
+  margin-top: -200px;
+}
+
+#bb1{
+  background-color:#9ddceb;
+  margin-top: 10pt;
+}
+#bb2{
+  margin-left: 170px;
+  background-color: #b3e663;
+  margin-top: -200px;
+}
+#bb3{
+  margin-left: 340px;
+  background-color: 
+  #d9ae64;
+  margin-top: -200px;
+}
+#bb4{
+  margin-left: 510px;
+  background-color: #d92975;
+  margin-top: -200px;
+}
+#bb5{
+  margin-left: 680px;
+  background-color:  #471c2f;
+  margin-top: -200px;
+}
+#bb6{
+  margin-left: 850px;
+  background-color:  
+  #3e8fb5;
+  margin-top: -200px;
+}
+#bb7{
+  margin-left: 1020px;
+  background-color:  #82a886;
+  margin-top: -200px;
+}
+#bb8{
+  margin-left: 1190px;
+  background-color:  #4561a8;
+  margin-top: -200px;
+}
+#bb9{
+  margin-left: 1360px;
+  background-color:   #822c7f;
+  margin-top: -200px;
+}
+/* .art{
+  margin:auto;
+}
+.art-2{
+  margin:auto;
+  margin-top: 10pt;
+  
+}
+.art-3{
+  margin:auto;
+  margin-top: 10pt;
+}
+
+  #seven-c{
+    width: 150px;
+    height: 200px;
+    
+    background-color: ;
+    margin:auto;
+    
+    }
+    #eight-c{
+      width: 150px;
+      height: 200px;
+      
+      background-color: ;
+      margin:auto;
+      
+      }
+      #nine-c{
+        width: 150px;
+        height: 200px;
+        
+        background-color:;
+        margin:auto;
+        
+        }
+ */
+body{
+    background-color: black;
+}

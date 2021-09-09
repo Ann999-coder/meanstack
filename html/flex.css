@@ -1,0 +1,31 @@
+.parent{
+    width: 550px;
+    height: 310px;
+    background-color: cadetblue;
+    display: flex;
+    /* justify-content: flex-end; */
+    align-items: center;
+    justify-content: space-around;
+}
+
+.col{
+    
+    height: 200px;
+    width: 50px;  
+}
+.col-1{
+    background-color: rgb(112, 231, 112);
+}
+.col-2{
+    background-color:rgb(226, 176, 83) ;
+}
+.col-3{
+    background-color: rgb(224, 52, 173);
+}
+.col-4{
+    background-color: rgb(136, 207, 212);
+}
+
+.col-5{
+    background-color: rgb(78, 231, 198);
+}

@@ -1,0 +1,63 @@
+.row{
+    border: 1px solid black;
+    height: 350px;
+    width: 500px;
+    background-color: cadetblue;
+    position: relative;
+    
+    
+}
+.row-2{
+    border: 1px solid black;
+    height: 350px;
+    width: 500px;
+    background-color: cadetblue;
+    position: relative;
+    left:1000px;
+    
+    
+}
+/* #f453fc */
+.col{
+    height: 350px;
+    width: 100px;
+    border: 1px solid blue;
+}
+.col-1{
+
+    position:absolute;
+    background-color: rgba(241, 69, 241, 0.836);
+    
+}
+.col-2{
+
+    position: absolute;
+    left: 100px;
+    background-color:rgb(146, 37, 248) ;
+    
+} 
+.col-3{
+    position: absolute;
+    left: 200px;
+    background-color:rgb(163, 62, 62) ;
+    
+}
+
+.col-4{
+
+    position: absolute;
+    left: 300px;
+    
+    background-color: rgba(247, 62, 191, 0.719);
+    
+    
+} 
+.col-5{
+
+    position: absolute;
+    left: 400px;
+    
+    background-color: rgb(117, 248, 117);
+    
+    
+} 
